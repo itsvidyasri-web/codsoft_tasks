@@ -54,3 +54,9 @@ Source Code Repositories
 3. Sales Prediction Using Python
 
 "View Source Code" (https://github.com/itsvidyasri-web/CodSoft-Sales-Prediction)
+
+## Complete Source Code Repository
+
+All three internship project source codes are available in this consolidated repository.
+
+GitHub Repository: https://github.com/itsvidyasri-web/codsoft_tasks
